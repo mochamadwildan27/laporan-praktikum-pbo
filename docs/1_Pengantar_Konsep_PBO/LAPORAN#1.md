@@ -31,6 +31,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/SepedaDem
 
 ![contoh screenshot](img/Capture2.PNG)
 ![contoh screenshot](img/Capture.PNG)
+![contoh screenshot](img/hasil.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/SepedaDemo1841720140Wildan.java)
 Contoh link kode program : [ini contoh link ke kode program](../../src/SepedaGunung1841720140Wildan.java)
