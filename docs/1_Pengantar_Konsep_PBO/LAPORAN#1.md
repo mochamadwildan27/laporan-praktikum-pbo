@@ -17,8 +17,8 @@ susah untuk coding selalu error
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/spd.PNG)
-![contoh screenshot](img/spddemo.PNG)
+![contoh screenshot](img/sepeda.PNG)
+![contoh screenshot](img/Capture2.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/Sepeda1841720140Wildan.java)
 Contoh link kode program : [ini contoh link ke kode program](../../src/SepedaDemo1841720140Wildan.java)
@@ -29,7 +29,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/SepedaDem
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/spddemo.PNG)
+![contoh screenshot](img/Capture2.PNG)
 ![contoh screenshot](img/Capture.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/SepedaDemo1841720140Wildan.java)
